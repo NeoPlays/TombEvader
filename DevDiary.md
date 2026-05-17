@@ -8,7 +8,7 @@
 | 11.05.2026 |  2h  | add landscape and test meshes            |
 | 14.05.2026 |  6h  | add everyhting needed for interactions   |
 
-## Gerog Denner
+## Georg Denner
 
 | Date       | Time | Task                                     |
 |------------|:----:|------------------------------------------|
