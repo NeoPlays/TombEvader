@@ -18,3 +18,4 @@
 | 15.05.2026 |  4h  |add sounds and pause menu                 |
 | 16.05.2026 |  2h  |add ambient sounds and torches            |
 | 17.05.2026 |  3h  |started 1 puzzle and update map           |
+| 18.05.2026 |  2h  |add proper footsteps and metahuman        |
