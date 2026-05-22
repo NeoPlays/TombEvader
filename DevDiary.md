@@ -9,6 +9,7 @@
 | 14.05.2026 |  6h  | add everyhting needed for interactions   |
 | 17.05.2026 |  6h  | implement Puzzle 1                       |
 | 18.05.2026 |  5h  | improve landscape, add portal with custom niagara, add new level for Puzzle 2 |
+| 22.05.2026 |  2h  | implement Level 3 with cloud plane and respawn volume |
 
 ## Georg Denner
 
