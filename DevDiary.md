@@ -24,3 +24,5 @@
 | 18.05.2026 |  2h  |add proper footsteps and metahuman        |
 | 20.05.2026 |  2h  |fixed menu logic                          |
 | 20.05.2026 |  3h  |add better look and logic                 |
+| 22.05.2026 |  1h  |add microphone                            |
+| 23.05.2026 |  1h  |add decorations                            |
