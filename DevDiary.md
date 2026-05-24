@@ -12,6 +12,7 @@
 | 22.05.2026 |  2h  | implement Level 3 with cloud plane and respawn volume |
 | 23.05.2026 |  3h  | Finish Level 3 Implementation |
 | 24.05.2026 |  1h  | Make small adjustments to camera roll and cloud plane |
+| 24.05.2026 |  6h  | Add Labyrinth with sound hints and make smaller adjustments |
 
 ## Georg Denner
 
