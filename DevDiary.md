@@ -28,4 +28,5 @@
 | 20.05.2026 |  2h  |fixed menu logic                          |
 | 20.05.2026 |  3h  |add better look and logic                 |
 | 22.05.2026 |  1h  |add microphone                            |
-| 23.05.2026 |  1h  |add decorations                            |
+| 23.05.2026 |  2h  |add decorations                           |
+| 24.05.2026 |  3h  |decorations and bug fixing                |
