@@ -30,3 +30,4 @@
 | 22.05.2026 |  1h  |add microphone                            |
 | 23.05.2026 |  2h  |add decorations                           |
 | 24.05.2026 |  4h  |decorations and bug fixing                |
+| 25.05.2026 |  4h  |bug fixing, documentation, building       |
